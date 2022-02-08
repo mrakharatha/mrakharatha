@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammad Reza</h1>
 
 
+
+```go
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to my profile");
+        }
+    }
+```
+
 <h3>⚡️ Status:</h3>
 
 ![profile count](https://komarev.com/ghpvc/?username=mrakharatha&color=red)&nbsp;
