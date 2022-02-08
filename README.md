@@ -5,3 +5,13 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=mrakharatha&color=red)&nbsp;
 
+
+<h3>👨🏻‍💻 About Me:</h3>
+
+My name is mohammad reza and I'm a Software Engineer who is very interested in learning. Currently, I'm trying to do my best in asp.net core , I love creating stuff to help other people.
+
+<p align="left">
+	<a href="https://github.com/mrakharatha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/seyed-mohammad-reza-azad-a6a5281b2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/mra_kharatha"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
