@@ -19,7 +19,7 @@
 
 <h3>👨🏻‍💻 About Me:</h3>
 
-My name is mohammad reza and I'm a Software Engineer who is very interested in learning. Currently, I'm trying to do my best in asp.net core , I love creating stuff to help other people.
+My name is mohammad reza and I'm a Software Engineer . Currently, I'm trying to do my best in asp.net core 
 
 <h3 align="left">📫 How to reach me:</h3>
 
