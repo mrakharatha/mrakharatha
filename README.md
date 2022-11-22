@@ -33,8 +33,7 @@ My name is mohammad reza and I'm a Software Engineer . Currently, I'm trying to 
 
 <div align="center">
 	
-[![mrakharatha](http://github-readme-streak-stats.herokuapp.com?user=mrakharatha&theme=shades-of-purple)](https://git.io/streak-stats)
-	
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrakharatha&theme=dark&hide_border=true)](https://git.io/streak-stats)	
 ![mrakharatha](https://github-readme-stats.vercel.app/api?username=mrakharatha&show_icons=true&theme=shades-of-purple)
 	
 </div>
