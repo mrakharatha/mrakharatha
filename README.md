@@ -30,7 +30,7 @@ My name is mohammad reza and I'm a Software Engineer . Currently, I'm trying to 
 
 
 <br/>
-<h3 align="center"> &#x1f4c8; My GitHub Stats:</h3>
+<h3 align="center"> &#x1f4c8; My GitHub Stats</h3>
 
 <div align="center">
 
@@ -41,9 +41,5 @@ My name is mohammad reza and I'm a Software Engineer . Currently, I'm trying to 
 </div>
 
 
-<div align="center">
 
-<a href="https://coffeebede.ir/buycoffee/mohammadrezaazad"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-	
-</div>
 
