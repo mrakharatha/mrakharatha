@@ -29,14 +29,17 @@ My name is mohammad reza and I'm a Software Engineer . Currently, I'm trying to 
 </p>
 
 
-<h3 align="left"> &#x1f4c8; My GitHub Stats:</h3>
+<br/>
+<h3 align="center"> &#x1f4c8; My GitHub Stats:</h3>
 
 <div align="center">
-	
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrakharatha&theme=dark&hide_border=true)](https://git.io/streak-stats)	
-![mrakharatha](https://github-readme-stats.vercel.app/api?username=mrakharatha&show_icons=true&theme=dark&hide_border=true)
-	
+
+[![mrakharatha](https://streak-stats.demolab.com?user=mrakharatha&theme=tokyonight)](https://github.com/mrakharatha)
+
+[![mrakharatha](https://github-readme-activity-graph.vercel.app/graph?username=mrakharatha&theme=react)](https://github.com/mrakharatha)
+ 
 </div>
+
 
 <div align="center">
 
